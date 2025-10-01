@@ -1,0 +1,11 @@
+Este es un archivo de texto de ejemplo para la práctica de SVC.
+Contiene información sobre hotfixes y correcciones rápidas.
+
+Fecha: 2024
+Autor: Dani Sanz
+Propósito: Práctica de despliegue y control de versiones
+
+Notas:
+- Este archivo forma parte del ejercicio de hotfix
+- Se utiliza para demostrar el flujo de trabajo con ramas
+- Incluye cambios críticos que necesitan ser aplicados rápidamente
