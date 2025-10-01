@@ -25,7 +25,7 @@ elemento.style.color = 'blue';
 elemento.style.backgroundColor = '#f0f0f0';
 elemento.style.fontSize = '16px';
 elemento.style.display = 'block';
-
+//Changes
 // Obtener estilos computados
 const estilos = window.getComputedStyle(elemento);
 console.log(estilos.color);
